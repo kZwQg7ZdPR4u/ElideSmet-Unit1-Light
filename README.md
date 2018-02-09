@@ -4,4 +4,4 @@
 Created an app called Light for a course in app development at the University of Amsterdam. The app only has some basic functions. With the plus button the screen gets brighter, with the minus button the screen gets darker.
 
 ## Screenshot
-![](screenshot.jpg)
+![](doc/screenshot.jpg)
